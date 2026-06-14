@@ -272,3 +272,6 @@ https://github.com/Nandhini3Devaraj
 
 Project:
 https://github.com/Nandhini3Devaraj/rolex
+
+hosted link through vercel:
+https://frontend-hgfzhufi6-nandhuraj205-3397s-projects.vercel.app
